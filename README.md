@@ -20,7 +20,7 @@ This repository contains a custom transparent Miku CSS skin for Clash Verge. The
 
 ## 📷 Demo
 
-![Demo](http://123/123.jpg)
+![Demo](https://github.com/Duke486/Miku-Skin-ClashVerge/blob/main/light_demo.png)
 
 ---
 
@@ -46,4 +46,4 @@ This repository contains a custom transparent Miku CSS skin for Clash Verge. The
 
 ## 📷 演示图
 
-![演示图](http://123/123.jpg)
+![演示图](https://github.com/Duke486/Miku-Skin-ClashVerge/blob/main/light_demo.png)
