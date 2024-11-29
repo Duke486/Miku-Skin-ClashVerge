@@ -55,3 +55,27 @@ html {
 .the-traffic {
     margin-top: 50%;
 }
+
+/* 流量图显 */
+.MuiBox-root.css-79elbk {
+    background-color: rgba(255, 255, 255, 0) !important;
+    backdrop-filter: none; /* 移除模糊效果 */
+}
+
+/* 栏间空隙 */
+.MuiBox-root.css-mbssy4 {
+    background-color: rgba(255, 255, 255, 0) !important;
+    backdrop-filter: none;
+}
+
+/* 网速监控 */
+.MuiBox-root.css-1ueg5w {
+    background-color: rgba(255, 255, 255, 0) !important;
+    backdrop-filter: none;
+}
+
+/* 内存占用 */
+.MuiBox-root.css-7bkud2 {
+    background-color: rgba(255, 255, 255, 0) !important;
+    backdrop-filter: none;
+}
