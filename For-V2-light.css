@@ -84,33 +84,39 @@ html {
 
 /* 界面左上角图标 */
 /* 隐藏第一个 SVG */
+/*
 .the-logo > div svg:first-of-type {
     display: none;
 }
+*/
 
 /* 在 .the-logo > div 中创建一个新的 div */
+/*
 .the-logo > div::after {
     content: '';
     display: block;
 
-    /* 设置宽高 */
+    设置宽高
     width: 46px;
     height: 46px;
     left: 5px;
     bottom: 8px;
 
-    /* 自定义图标 */
+    自定义图标
     background-image: url('https://www.example.com/1.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 
-    /* 确保它可以精确定位 */
+    确保它可以精确定位
     position: absolute;
 }
+*/
 
 /* 保证第二个 SVG 正常显示，不受影响 */
+/*
 .the-logo > div svg:nth-of-type(2) {
     display: block;
     margin-left: 40px;
 }
+*/
