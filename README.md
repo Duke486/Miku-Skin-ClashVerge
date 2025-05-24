@@ -1,9 +1,13 @@
 # 🌟 Transparent Miku CSS Skin for Clash Verge
 
+:::info
+Recommended latest version
+:::
+
 ## 📷 Demo
 Light mode:
 
-![Demo](https://github.com/Duke486/Miku-Skin-ClashVerge/blob/main/light_demo.png)
+![Demo](https://github.com/Duke486/Miku-Skin-ClashVerge/blob/main/demo.jpg)
 
 Dark mode:
 To do...
