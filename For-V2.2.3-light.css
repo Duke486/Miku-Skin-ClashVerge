@@ -1,0 +1,166 @@
+/* 全局背景图 */
+.css-1li7dvq {
+    background-image: url('https://pic.imgdb.cn/item/669377dbd9c307b7e9726828.png') !important;
+    background-color: rgba(255, 255, 255, 0) !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* 首页按钮 */
+.css-buo882,
+.css-1woqkq7 {
+    background-color: #ffffff66 !important;
+    backdrop-filter: blur(7px) !important;
+}
+
+/* 节点、测试站点条目 */
+.css-n8e8d,
+.css-1d9xrv7,
+.css-9kkeku {
+    background-color: #ffffff22 !important;
+    backdrop-filter: blur(10px) !important;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.05); /* 羽化效果 */
+}
+
+/* 首页统计图 */
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation0.css-1unmb9x {
+    background-color: #ffffff33 !important;
+    backdrop-filter: blur(7px) !important;
+    border-color: rgba(0, 0, 0, 0.1) !important;
+}
+
+/* 表格表头 */
+.css-1ohm4eo .MuiDataGrid-container--top [role="row"],
+.css-1ohm4eo .MuiDataGrid-container--bottom [role="row"] {
+    background-color: #ffffff88 !important;
+    backdrop-filter: blur(7px) !important;
+}
+
+/* 通用圆角卡片 */
+.css-14wd3ve,
+.css-23cvz {
+    backdrop-filter: blur(7px) !important;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.05); /* 羽化效果 */
+}
+
+/* 首页监控数据 */
+.css-fiq9q0 {
+    backdrop-filter: blur(7px) !important;
+}
+
+/* 左侧标签切换按钮文字 */
+.css-a7awl9 {
+    text-shadow: 2px 2px 4px #ffffff88,
+                 -1px -1px 2px #ffffff66;
+}
+
+html {
+    --background-color: #f0f0f000 !important;
+}
+
+.css-td54yc,
+.css-qhetv7 {
+    background-color: rgba(255, 255, 255, 0) !important;
+    backdrop-filter: blur(7px) !important;
+}
+
+/* MuiBox 基础样式 - 全局透明背景 */
+.MuiBox-root {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
+.base-container {
+    background-color: #f0f0f000 !important;
+}
+
+.MuiTypography-root {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+/* 菜单布局 */
+.the-menu {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.the-menu li {
+    flex: 0 0 50%;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.the-menu::after {
+    content: "";
+    flex: 0 0 50%; /* 用于在项目数为奇数时填补布局 */
+}
+
+.layout__left {
+    height: 100% !important;
+    flex: 1 0 400px !important;
+}
+
+.the-traffic {
+    margin-top: 30%;
+}
+
+/* 设置中条目的文字 */
+.css-1i24pk4 {
+    background-color: transparent !important;
+}
+
+/* 设置中带有右箭头的条目、小按钮背景、左侧标签切换按钮背景 */
+.css-1ohqk82.MuiButtonBase-root,
+.css-ulr2qx {
+    background-color: #ffffff00 !important;
+}
+
+/* 特定 MuiBox 实例的背景模糊效果 */
+/* 流量图显 */
+.MuiBox-root.css-79elbk {
+    /* background-color 已由 .MuiBox-root 设置为透明 */
+    backdrop-filter: blur(2px);
+}
+
+/* 以下 MuiBox 实例明确不需要背景模糊 */
+/* 栏间空隙 */
+/* 网速监控 */
+/* 内存占用 */
+.MuiBox-root.css-mbssy4,
+.MuiBox-root.css-1ueg5w,
+.MuiBox-root.css-7bkud2 {
+    /* background-color 已由 .MuiBox-root 设置为透明 */
+    backdrop-filter: none;
+}
+
+
+/* 界面左上角图标自定义示例 */
+/*
+.the-logo > div svg:first-of-type {
+    display: none;
+}
+
+.the-logo > div::after {
+    content: '';
+    display: block;
+    width: 46px;
+    height: 46px;
+    left: 5px;
+    bottom: 8px;
+    background-image: url('https://www.example.com/1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+}
+
+.the-logo > div svg:nth-of-type(2) {
+    display: block;
+    margin-left: 40px;
+}
+*/
