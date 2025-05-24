@@ -1,8 +1,7 @@
 # 🌟 Transparent Miku CSS Skin for Clash Verge
 
-:::info
 Recommended latest version
-:::
+
 
 ## 📷 Demo
 Light mode:
@@ -34,6 +33,8 @@ This repository contains a custom transparent Miku CSS skin for Clash Verge. The
 ---
 
 # 🌟 Clash Verge 初音未来透明 CSS 皮肤
+
+推荐使用最新版
 
 ## 📋 描述
 
