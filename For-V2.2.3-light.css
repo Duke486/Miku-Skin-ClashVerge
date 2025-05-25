@@ -1,3 +1,30 @@
+.css-a7awl9.Mui-selected {
+    background-color: #d4f0fc37 !important;
+    backdrop-filter: blur(7px);
+}
+
+
+.css-a7awl9 {
+    /* color: 这里不设置，保持你当前的文字颜色 (我们假设是黑色或深色) */
+
+    text-shadow:
+        /* 核心层：一层相对清晰、略粗的亮色柔和描边 */
+        /* 目标：在文字边缘形成一个可见但不突兀的亮色边界 */
+        /* 颜色：选择一个非常浅的冷色调，如淡青色或极浅的灰蓝色 */
+        /* 模糊半径：2px 左右，使其比文字笔画略粗一圈，形成“粗”的初步感觉 */
+        /* 透明度：0.8 左右，确保其可见性和一定的“厚度感” */
+        0 0 2px rgba(172, 172, 172, 0.671),
+
+        /* 扩展层：一层更弥散、颜色更淡的辉光 */
+        /* 目标：在核心描边外层进一步扩展，增加视觉上的“粗度”，并保持“淡淡的”效果 */
+        /* 模糊半径：8px 到 10px，使其向外扩散得比较远 */
+        /* 透明度：0.35 到 0.45，确保其非常柔和，不抢眼 */
+        0 0 15px rgba(220, 245, 255, 0.3);
+}
+
+
+
+
 /* 全局背景图 */
 .css-1li7dvq {
     background-image: url('https://pic.imgdb.cn/item/669377dbd9c307b7e9726828.png') !important;
@@ -50,11 +77,8 @@
     backdrop-filter: blur(7px) !important;
 }
 
-/* 左侧标签切换按钮文字 */
-.css-a7awl9 {
-    text-shadow: 2px 2px 4px #ffffff88,
-                 -1px -1px 2px #ffffff66;
-}
+
+
 
 html {
     --background-color: #f0f0f000 !important;
