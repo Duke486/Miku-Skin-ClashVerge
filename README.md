@@ -1,6 +1,6 @@
 # 🌟 Clash Verge 初音未来透明 CSS 皮肤
 
-推荐使用最新版
+推荐使用最新版，请注意核对版本号。
 
 ## 📷 截图
 
@@ -31,7 +31,7 @@
 
 # 🌟 Clash Verge Hatsune Miku Transparent CSS Skin
 
-Recommended to use the latest version.
+It is recommended to use the latest version, please check the version number.
 
 ## 📋 Description
 
